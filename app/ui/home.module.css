@@ -1,0 +1,8 @@
+.shape {
+    height: 250px;
+    width: 98vw;
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    background: #2E6EEA;
+  }
